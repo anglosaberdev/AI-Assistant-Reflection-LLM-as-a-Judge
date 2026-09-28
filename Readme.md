@@ -482,6 +482,6 @@ The project uses **LangChain for LLM interaction** and **LangGraph for workflow 
 
 **Angelo Saber**
 
-Senior iOS Developer Consultant | AI / Generative AI Engineer
+AI / Generative AI Engineer
 
 GitHub: `Eng.AngeloSaber`
